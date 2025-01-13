@@ -9,6 +9,15 @@ At long last! Here are the all the files you would need to create your own OEM E
 
 I use this plugin in KiCad to make it super easy to order boards with all the correct settings: [https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html](https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html)
 
+<br>
+
+## UPDATE: 01/13/25
+A brand new N64-killer issue has been brought to my attention (https://x.com/Consoles4You/status/1859336481569190276)
+
+It seems that Consoles4You has made some modifications and have been able to resolve the issue. I've reached out to them to thank them for all the work they've done and they've indicated on X that they plan to open source the revisions once they're sure they work. Those changes may or may not appear here (depends on their desires since they did the hard work). But I'll provide an update here once I have one.
+
+<br>
+
 ## Some things to note:
 
  - ***Unless you have a 4MB RAM chip, this board will not do you any good***. Most of the old stock you will find are 2MB chips. Don't fret, I have [another open source board](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak) that utilizes two of these chips so that you can make your own Expansion Pak. This one is just for historical reference. That being said, you can find instructions for ordering a board with the settings I use at PCBWay below in the "Making your own board" section if you happen to come across some 4MB modules, or you harvest them from a broken N64 (assuming you have the model with one 4MB chip as opposed to the ones with two 2MB chips)
