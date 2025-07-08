@@ -11,10 +11,10 @@ I use this plugin in KiCad to make it super easy to order boards with all the co
 
 <br>
 
-## UPDATE: 01/13/25
-A brand new N64-killer issue has been brought to my attention (https://x.com/Consoles4You/status/1859336481569190276)
+## UPDATE: 05/20/25
+*This repo hasn't been updated yet*
 
-It seems that Consoles4You has made some modifications and have been able to resolve the issue. I've reached out to them to thank them for all the work they've done and they've indicated on X that they plan to open source the revisions once they're sure they work. Those changes may or may not appear here (depends on their desires since they did the hard work). But I'll provide an update here once I have one.
+That being said, the N64-killer issue has been resolved for the [Open Source Expansion Pak](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak). I just need to set aside time to migrate those changes over to this repo and test it.
 
 <br>
 
