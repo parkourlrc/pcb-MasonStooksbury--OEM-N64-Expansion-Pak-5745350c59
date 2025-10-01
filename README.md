@@ -11,7 +11,7 @@ I use this plugin in KiCad to make it super easy to order boards with all the co
 
 <br>
 
-## UPDATE: 05/20/25
+## UPDATE: 05/20/25 - Still don't build this
 *This repo hasn't been updated yet*
 
 That being said, the N64-killer issue has been resolved for the [Open Source Expansion Pak](https://github.com/MasonStooksbury/Open-Source-N64-Expansion-Pak). I just need to set aside time to migrate those changes over to this repo and test it.
